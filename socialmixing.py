@@ -8,8 +8,6 @@ __license__ = "MIT"
 __email__ = "lukefrederickmassa@gmail.com"
 
 import csv
-import json
-import unittest
 
 POP_ESTIMATE_COLUMN = "CENSUS2010POP" # Which column to use from the census data
 
